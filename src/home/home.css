@@ -1,0 +1,10 @@
+.home{
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("/src/home/pexels-moose-photos-1036622.jpg");
+    background-size: cover ;
+    background-position: center;
+    /* filter: brightness(40%); */
+}
+.home .det{
+    position: absolute;
+    top: 40%;
+}
